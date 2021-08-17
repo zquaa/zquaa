@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zquaa
 - 👀 I’m interested in game hacking.
-- 🌱 I’m currently learning python, C# and Lua.
+- 🌱 I’m currently learning python and C#.
 - 📫 You can reach to me on discord zqua#9285
 
 
